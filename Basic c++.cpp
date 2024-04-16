@@ -40,7 +40,7 @@ int main () {
   return 0;
 }*/
 
-//#4   Arithmetic Operators  call Function Program
+ //#4 Arithmetic Operators  call Function Program
 /*
 #include <iostream>
 using namespace std;
