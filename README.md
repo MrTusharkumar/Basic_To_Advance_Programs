@@ -14,7 +14,8 @@ using namespace std;
 /* 
  #include <iostream>
 using namespace std;
-main () {
+ 
+ int main () {
 string name ;
 cout<<"Enter your Name : ";
 cin>>name;
@@ -85,6 +86,7 @@ return 0;
 /*
 #include <iostream>
 using namespace std;
+
 int main() {
 int a= 6 , b =9 ;
 cout <<" before swapping a = " <<a<< " b = "<<b    <<endl;
@@ -125,7 +127,7 @@ int main()
          << endl;
     return 0;
 }
-*/
+  */
 
 
 //6
@@ -146,7 +148,7 @@ return 0;
 
 
 } 
- */
+   */
 
 //#7
 /* 
@@ -166,10 +168,10 @@ product = mul_float_num(a,b);
 cout<<product;
 return 0;
  }
-*/
+*/ 
 // #8
 // Print ASCII Value of a Character
-/*
+/*  
 #include <iostream>
 using namespace std;
 int main() {
@@ -181,15 +183,16 @@ printf("The ASCII value of %c is %d ", c,c);
 return 0;
 
 }
-*/
+*/ 
 
 // #9
 // program to convert fahrenheit to celsius
 /*
-# include <iostream>
+ #include <iostream>
 using namespace std ;
 // creating a user define Function
 // Formula is : T(C) = (T(F)-32)* 5/9
+
 float Conversion(float n)
 {
     return (n-32.0)* 5.0 / 9.0 ;
@@ -202,11 +205,11 @@ int main () {
  return 0;
 
 }
-*/
+  */
 
 // #10
 // find the sample interest program
-/*
+/* 
 #include <iostream>
 using namespace std ;
 
@@ -220,13 +223,13 @@ int main () {
     cout << "sample Interest = "<<SI ;
     return 0;
 }
-
+  
 */
 
 // #11
 // C++ program to find compound interest
 // for given values.
-/*
+/* 
 #include <bits/stdc++.h>
 using namespace std;
 // Driver
@@ -241,14 +244,14 @@ int main()
 
    // pow = 6.125
 
-}
+} 
 
 */
 //#12
 
 // C++ program to find area
 // and perimeter of rectangle
-/*
+/* 
 #include <iostream>
 using namespace std;
 //Utility Function
@@ -270,8 +273,8 @@ using namespace std;
   cout << "Aera : "<<areaRectangle(a,b)<<endl;
   cout<< "Perimeter : " <<areaPermeter(a, b);
   return 0;   } 
-  
-*/
+   
+ */
 
  // Basic programing is done 👍
 
