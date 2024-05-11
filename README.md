@@ -3,15 +3,16 @@ C++ Programs for Beginners
 
 // #1 Hello World Program
 // This is a simple C++ program that
-/*#include <iostream>
+/* #include <iostream>
 using namespace std;
  int main (){
     cout<<"Hare Krishna World !"<<endl;
     return 0;
-}*/
+       } */
 
 // #2   Printing own Name Program
-/*#include <iostream>
+/* 
+ #include <iostream>
 using namespace std;
 main () {
 string name ;
@@ -22,7 +23,8 @@ cout<<"Reply Dear "<<name <<" : "; cin>>name;
  cout << " I am also Fine and say Hare Krishna ";
 
 return 0;
-}*/
+} 
+ */
 //#3  Get input  from user Program
 /* #include <iostream>
 using namespace std;
@@ -30,7 +32,7 @@ int main () {
  string n ;
  int a ;
  long d ;
-   cout << " Enter Your prosanal Deatails : "<<endl;
+ cout << " Enter Your prosanal Deatails : "<<endl;
 
    cout << " Name : ";
    cin >>n ;
@@ -41,7 +43,7 @@ int main () {
    cout << "-----------Your Details--------------"<<endl;
    cout<< " Name : "<<n<<endl<<" Age : "<<a<<endl<<" Date of birth : "<<d;
   return 0;
-}*/
+} */
 
  //#4 Arithmetic Operators  call Function Program
 /*
@@ -76,7 +78,8 @@ swap(a,b);
 cout <<" after swapping a =  " <<a<< " b = "<<b          <<endl;
 
 return 0;
-} */
+} 
+*/
 
 //#5.1 swaping  two Variable  values  program
 /*
@@ -93,7 +96,8 @@ b=temp;
 cout <<" after swapping a =  " <<a<< " b = "<<b          <<endl;
 
 return 0;
-} */
+} 
+*/
 
 
 //#5.2
@@ -126,7 +130,8 @@ int main()
 
 //6
 // Find the size of variables int float double and char
-/* #include <iostream>
+/* 
+ #include <iostream>
 using namespace std;
 int main () {
     int intType ;
@@ -140,10 +145,12 @@ int main () {
 return 0;
 
 
-} */
+} 
+ */
 
 //#7
-/* Multply two floating point Number with creating a
+/* 
+ Multply two floating point Number with creating a
 user define function */
 /*  #include <iostream>
 using namespace std;
@@ -158,8 +165,7 @@ product = mul_float_num(a,b);
 // print output
 cout<<product;
 return 0;
-
-}
+ }
 */
 // #8
 // Print ASCII Value of a Character
